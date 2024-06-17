@@ -1,4 +1,4 @@
-# DESAFIO: ANALISANDO DADOS DE PREÇOS DE CASAS NOS ESTADOSUNIDOS
+# DESAFIO: ANALISANDO DADOS DE PREÇOS DE CASAS NOS ESTADOS UNIDOS
 
 Este é um projeto para disciplina de Análise de Dados aplicada a computação. O desafio tem como objetivo que alunos tenham uma experiência prática com diferentes
 etapas do processo de análise de dados e construção de modelos de aprendizagem de máquina. Destacamos as seguintes etapas desse projeto:
