@@ -37,7 +37,7 @@ Kaggle. Você pode encontrá-lo no seguinte link: [Kaggle.com](https://www.kaggl
 ![image](https://github.com/henriquegilles/ProjetoC3_AD/assets/93086456/af9d23ed-81ed-4bf5-91f9-5d01aa26d3ef)
 
 
-# DADOS OBTIDOS APÓS UM DOS TESTES REALIZDOS 
+# DADOS OBTIDOS APÓS UM DOS TESTES REALIZADOS 
 
 Regressão Linear:
 - Mean Squared Error: 0.10074626865671642
